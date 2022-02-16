@@ -1,9 +1,8 @@
 # Графики для домашних работ
 
-## Гистограммы распределения признаков
-[ссылка](gender.result.comparsion.html)
+## Домашняя работа №1 - EDA
 
-## Гистограммы для сравнения распределений до и после выброса NaN-ов
+### Гистограммы распределения признаков
 
 - [enrollee_id](./HW1_EDA/hists/enrollee_id.html)
 - [city](./HW1_EDA/hists/city.html)
@@ -19,8 +18,45 @@
 - [last_new_job](./HW1_EDA/hists/last_new_job.html)
 - [training_hours](./HW1_EDA/hists/training_hours.html)
 
-## Гистограммы для сравнения распределений до и после заполнения NaN-ов
+### Гистограммы для сравнения распределений до и после выброса NaN-ов
 
-## Гистограммы для сравнения распределений до и после заполнения NaN-ов
+- [enrollee_id_comparsion](./lets-plot-images/dropna_comp/enrollee_id.comparsion.html)
+- [city_comparsion](./lets-plot-images/dropna_comp/city.comparsion.html)
+- [city_development_index_comparsion](./lets-plot-images/dropna_comp/city_development_index.comparsion.html)
+- [gender_comparsion](./lets-plot-images/dropna_comp/gender.comparsion.html)
+- [relevent_experience_comparsion](./lets-plot-images/dropna_comp/relevent_experience.comparsion.html)
+- [enrolled_university_comparsion](./lets-plot-images/dropna_comp/enrolled_university.comparsion.html)
+- [education_level_comparsion](./lets-plot-images/dropna_comp/education_level.comparsion.html)
+- [major_discipline_comparsion](./lets-plot-images/dropna_comp/major_discipline.comparsion.html)
+- [experience_comparsion](./lets-plot-images/dropna_comp/experience.comparsion.html)
+- [company_size_comparsion](./lets-plot-images/dropna_comp/company_size.comparsion.html)
+- [company_type_comparsion](./lets-plot-images/dropna_comp/company_type.comparsion.html)
+- [last_new_job_comparsion](./lets-plot-images/dropna_comp/last_new_job.comparsion.html)
+- [training_hours_comparsion](./lets-plot-images/dropna_comp/training_hours.comparsion.html)
 
-## Результирующие гистограммы для сравнения распределений
+### Гистограммы для сравнения распределений до и после заполнения NaN-ов
+
+- [gender.fill.comparsion](./lets-plot-images/fillna_comparsion/gender.fill.comparsion.html)
+- [enrolled_university.fill.comparsion](./lets-plot-images/fillna_comparsion/enrolled_university.fill.comparsion.html)
+- [education_level.fill.comparsion](./lets-plot-images/fillna_comparsion/education_level.fill.comparsion.html)
+- [major_discipline.fill.comparsion](./lets-plot-images/fillna_comparsion/major_discipline.fill.comparsion.html)
+- [experience.fill.comparsion](./lets-plot-images/fillna_comparsion/experience.fill.comparsion.html)
+- [company_size.fill.comparsion](./lets-plot-images/fillna_comparsion/company_size.fill.comparsion.html)
+- [company_type.fill.comparsion](./lets-plot-images/fillna_comparsion/company_type.fill.comparsion.html)
+- [last_new_job.fill.comparsion](./lets-plot-images/fillna_comparsion/last_new_job.fill.comparsion.html)
+
+### Результирующие гистограммы для сравнения распределений
+
+- [enrollee_id_comparsion](./lets-plot-images/comp_sampling/enrollee_id.result.comparsion.html)
+- [city_comparsion](./lets-plot-images/comp_sampling/city.result.comparsion.html)
+- [city_development_index_comparsion](./lets-plot-images/comp_sampling/city_development_index.result.comparsion.html)
+- [gender_comparsion](./lets-plot-images/comp_sampling/gender.result.comparsion.html)
+- [relevent_experience_comparsion](./lets-plot-images/comp_sampling/relevent_experience.result.comparsion.html)
+- [enrolled_university_comparsion](./lets-plot-images/comp_sampling/enrolled_university.result.comparsion.html)
+- [education_level_comparsion](./lets-plot-images/comp_sampling/education_level.result.comparsion.html)
+- [major_discipline_comparsion](./lets-plot-images/comp_sampling/major_discipline.result.comparsion.html)
+- [experience_comparsion](./lets-plot-images/comp_sampling/experience.result.comparsion.html)
+- [company_size_comparsion](./lets-plot-images/comp_sampling/company_size.result.comparsion.html)
+- [company_type_comparsion](./lets-plot-images/comp_sampling/company_type.result.comparsion.html)
+- [last_new_job_comparsion](./lets-plot-images/comp_sampling/last_new_job.result.comparsion.html)
+- [training_hours_comparsion](./lets-plot-images/comp_sampling/training_hours.result.comparsion.html)
