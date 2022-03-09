@@ -4,3 +4,6 @@
 # tasks
 *.pdf
 *.xopp
+
+# pictures
+*.png
