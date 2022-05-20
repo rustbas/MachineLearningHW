@@ -6,6 +6,6 @@
 !*.ipynb
 !*.csv
 !*.sh
-!*.png
+#!*.png
 !*.pdf
 
